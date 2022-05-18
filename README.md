@@ -1,4 +1,8 @@
+
 # Kaggle_titanic
+
+視覺化報表
+https://datastudio.google.com/s/h30I4YU1gWg
 
 結論:
 
@@ -57,3 +61,5 @@ C=162.6536408785796,multi_class='multinomial', penalty='none',solver='newton-cg'
 #其模型準確率約84%
 #上傳後最佳成績得到了Score: 0.77272,
 #看到有人是100分?太神奇了,要繼續努力!!
+
+
